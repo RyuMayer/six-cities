@@ -1,6 +1,6 @@
 import { TMapIcon } from './types/map';
 
-export const BASE_URL = 'https://14.design.pages.academy';
+export const BASE_URL = 'https://14.design.htmlacademy.pro';
 export const REQUEST_TIMEOUT = 5000;
 export const MIN_COMMENT_LENGTH = 50;
 export const MAX_COMMENT_LENGTH = 300;
